@@ -68,3 +68,7 @@ React · TypeScript · JavaScript · Node.js · Python · FastAPI · C# · .NET 
 - [Portfolio and consulting](https://innovalogic.tech/)
 - [GitHub projects](https://github.com/dafermen?tab=repositories)
 - [Email](mailto:contact@innovalogic.tech)
+
+## DOC-STD-20261002 — Documentation navigation
+
+Use the [documentation map](DOCUMENTATION.md) for authoritative sources, reading paths and project-specific maintenance rules.
