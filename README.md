@@ -13,7 +13,7 @@ My work brings together full-stack development, accessible interfaces, operation
 
 ## Projects
 
-These projects span working demos, local applications, and products under development. Repository documentation describes each project's current scope and setup. Demo links lead to web previews; a public repository does not necessarily have a hosted application.
+These projects span working demos, local applications, and products under development. Repository documentation describes each project's current scope and setup. Demo links lead to web previews; a public repository does not necessarily have a hosted application. Demos marked **with access key** require a privately shared key. SmartRead links to extension installation and documentation; WorkDay Assistant remains a preview in development.
 
 ### Learning and Accessibility
 
@@ -25,8 +25,8 @@ These projects span working demos, local applications, and products under develo
 | **SmartTalky** | American English pronunciation practice for Spanish speakers, with optional AI audio and browser speech support. | [Demo](https://smarttalky.innovalogic.tech/) · [Code](https://github.com/dafermen/SmartTalky) |
 | **SmartTense** | English verb tense training through focused practice, explanations, and conjugation tables. | [Code](https://github.com/dafermen/SmartTense) |
 | **SmartTraining** | Video-based corporate training with administration, learner assignments, role-based access, and progress tracking. | [Demo](https://smarttraining.innovalogic.tech/) · [Code](https://github.com/dafermen/SmartTraining) |
-| **SmartRead** | Chrome extension that reads selected text or web pages aloud using the browser's speech engine. | [Code and installation](https://github.com/dafermen/SmartRead) |
-| **SpeakFlowAI** | Personal English conversation practice with real-time voice, local text practice, feedback, and progress tracking. | [Code](https://github.com/dafermen/SpeakFlowAI) |
+| **SmartRead** | Chrome extension that reads selected text or web pages aloud using the browser's speech engine. | [Installation and docs](https://smartread.innovalogic.tech/) · [Code](https://github.com/dafermen/SmartRead) |
+| **SpeakFlowAI** | Personal English conversation practice with real-time voice, local text practice, feedback, and progress tracking. | [Demo with access key](https://speakflowai.innovalogic.tech/) · [Code](https://github.com/dafermen/SpeakFlowAI) |
 | **DMV NY Practice — Método Mogollón** | Educational practice for the New York Learner Permit knowledge test, with study tools and browser-based progress. | [Demo](https://test.metodomogollon.com/) |
 
 ### Data, Productivity, and Operations
@@ -37,21 +37,21 @@ These projects span working demos, local applications, and products under develo
 | **TaskPilot** | Project and task management with a Kanban workspace, checklists, priorities, metrics, and local persistence. | [Demo](https://taskpilot.innovalogic.tech/) · [Code](https://github.com/dafermen/TaskPilot) |
 | **NetWatch Lite** | Network monitoring, diagnostics, history, and operational reporting, with a portable Windows option. | [Code](https://github.com/dafermen/netwatch-lite) · [Landing page](https://netwatch.innovalogic.tech/) |
 | **NetWatch Lite Wallboard** | Windows desktop wallboard for displaying multiple monitoring pages in independent WebView2 panels. | [Code](https://github.com/dafermen/netwatch-lite-wallboard) |
-| **Ruteza** | GPS and fleet-management platform with maps, telemetry, geofences, alerts, and organization management. | Private development project |
-| **WorkDay Assistant** | Workday timing tool for ServiceNow technicians; calculation logic and initial UI components are implemented, with the full interface in development. | [Code](https://github.com/dafermen/WorkDayAssistant) |
+| **Ruteza** | GPS and fleet-management platform with maps, telemetry, geofences, alerts, and organization management. | [Demo with access key](https://ruteza.innovalogic.tech/) · Private code |
+| **WorkDay Assistant** | Workday timing tool for ServiceNow technicians; calculation logic and initial UI components are implemented, with the full interface in development. | [Preview in development](https://workdayassistant.innovalogic.tech/) · [Code](https://github.com/dafermen/WorkDayAssistant) |
 
 ### AI and Conversational Tools
 
 | Project | What it does | Explore |
 | --- | --- | --- |
 | **Nexo** | Conversational reception kiosk with voice, video, FAQs, scheduling, and protected administration. | [Code](https://github.com/dafermen/nexo) · [Pilot access](https://nexo.metodomogollon.com/pilot) |
-| **AI Dev Control** | Local control plane for human approvals, repository observation, task history, and development policies. Provider execution remains outside the current scope. | [Code](https://github.com/dafermen/AI-Dev-Control) |
+| **AI Dev Control** | Control panel for human approvals, repository observation, task history, and development policies. Provider execution remains outside the current scope. | [Demo with access key](https://aidevcontrol.innovalogic.tech/) · [Code](https://github.com/dafermen/AI-Dev-Control) |
 
 ### Media and Websites
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **avDownloader** | Local media utility for supported public video sources and for trimming, joining, and transcoding video and audio files. | [Code](https://github.com/dafermen/avDownloader) |
+| **avDownloader** | Media utility for supported public video sources and for trimming, joining, and transcoding video and audio files. | [Demo with access key](https://avdownloader.innovalogic.tech/) (pilot through Oct 9, 2026) · [Code](https://github.com/dafermen/avDownloader) |
 | **InnovaLogic** | Personal portfolio and consulting website presenting software projects, services, and collaboration opportunities. | [Website](https://innovalogic.tech/) · [Code](https://github.com/dafermen/innovalogic.tech) |
 | **Método Mogollón Website** | Responsive driving-academy website with course information, FAQs, and guided contact through WhatsApp. | [Website](https://metodomogollon.com/) |
 
