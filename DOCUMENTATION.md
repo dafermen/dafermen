@@ -20,3 +20,8 @@ For this repository, the README is the compact guide for scope and maintenance. 
 Keep current state, change history and decisions separate. Existing dated test results remain historical evidence. Adding this map does not rerun every documented command or complete pending product acceptance. Record actual checks, their environment and unresolved limits before publication.
 
 Update the source guide whenever commands, configuration, behavior, permissions or deployment change. Keep existing links and portal routes stable. Use real screenshots with synthetic data; never publish env values, access keys, user data or operational logs. A local commit, a remote commit and a deployed artifact are separate states.
+
+
+## DOC-WEB-20261003 — Surface compatibility
+
+GitHub controls profile Markdown layout, theme, search and heading navigation. Keep the existing project links and documentation map; the InnovaLogic web colors apply to independent project readers, not injected CSS in a GitHub profile.
